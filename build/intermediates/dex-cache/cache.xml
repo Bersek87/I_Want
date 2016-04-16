@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Eden\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="C:\Users\Eden\AndroidStudioProjects\IWish\app\build\intermediates\pre-dexed\debug\library-2.4.0-16aa56612cecada58a698f1621b1651d9adcf185.jar" />
+    </item>
+    <item
+        jar="C:\Android\sdk1\extras\android\m2repository\com\android\support\support-annotations\22.1.1\support-annotations-22.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="01d051a6bfb1218b1db2d3a5af0480ac2c25c42a">
+        <dex dex="C:\Users\Eden\AndroidStudioProjects\IWish\app\build\intermediates\pre-dexed\debug\support-annotations-22.1.1-84ce1bbd08aea805bfb3dbbe0ba07144e7ca9632.jar" />
+    </item>
+    <item
+        jar="C:\Users\Eden\AndroidStudioProjects\IWish\app\build\intermediates\exploded-aar\com.melnykov\floatingactionbutton\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="8c6ebb7d087d1a30bf84356bd2aecf85309fc024">
+        <dex dex="C:\Users\Eden\AndroidStudioProjects\IWish\app\build\intermediates\pre-dexed\debug\classes-a3a4cf49b0fc458acbfef3d364271471bb928645.jar" />
+    </item>
+    <item
+        jar="C:\Users\Eden\AndroidStudioProjects\IWish\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c95ba8152923e4872e86a82cfcba9a51c0214328">
+        <dex dex="C:\Users\Eden\AndroidStudioProjects\IWish\app\build\intermediates\pre-dexed\debug\classes-59fc774ae2e6ba2f0e6a010262f58caf88698daa.jar" />
+    </item>
+    <item
+        jar="C:\Users\Eden\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.3.1\ecb6e1f8e4b0e84c4b886c2f14a1500caf309757\gson-2.3.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="C:\Users\Eden\AndroidStudioProjects\IWish\app\build\intermediates\pre-dexed\debug\gson-2.3.1-597099dca0c0bbe5dbbb394aa523c3122d0ac6c5.jar" />
+    </item>
+    <item
+        jar="C:\Users\Eden\AndroidStudioProjects\IWish\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\jars\libs\internal_impl-22.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9e070ad32b2700b0343e8e0cccc437733d91ba3a">
+        <dex dex="C:\Users\Eden\AndroidStudioProjects\IWish\app\build\intermediates\pre-dexed\debug\internal_impl-22.1.1-0556f50339db39d8b9b8d47f181d0c7ccc02c655.jar" />
+    </item>
+    <item
+        jar="C:\Users\Eden\AndroidStudioProjects\IWish\app\build\intermediates\exploded-aar\IWish\volley\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d5527a5d1d5c60d3d475f5ae4a8f20dd2d2d3662">
+        <dex dex="C:\Users\Eden\AndroidStudioProjects\IWish\app\build\intermediates\pre-dexed\debug\classes-0d916acba6c735cc81eb571fbf2d061171101a95.jar" />
+    </item>
+    <item
+        jar="C:\Users\Eden\AndroidStudioProjects\IWish\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a3ff3c506644c820eb2bdf06e8339f72be578551">
+        <dex dex="C:\Users\Eden\AndroidStudioProjects\IWish\app\build\intermediates\pre-dexed\debug\classes-63e2c7b88fedab52592ee0f813c360dfe302884c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Eden\AndroidStudioProjects\IWish\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\22.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e0b0c35d02308b270015a74cada4887e2e49b889">
+        <dex dex="C:\Users\Eden\AndroidStudioProjects\IWish\app\build\intermediates\pre-dexed\debug\classes-c1d6a9f178394f90eac0dae6fea0213922e8dc8a.jar" />
+    </item>
+
+</items>

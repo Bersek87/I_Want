@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<navigationModel
+  ns = "http://schemas.android.com?import=com.android.tools.idea.editors.navigation.model.*">
+  <locations  
+    class = "java.util.ArrayList">
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.herprogramacion.iwish.ui.actividades.DetailActivity"/>
+      <point      
+        x = "-332"      
+        y = "96"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.herprogramacion.iwish.ui.actividades.MainActivity"/>
+      <point      
+        x = "484"      
+        y = "556"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.herprogramacion.iwish.ui.actividades.UpdateActivity"/>
+      <point      
+        x = "600"      
+        y = "200"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.herprogramacion.iwish.ui.actividades.InsertActivity"/>
+      <point      
+        x = "650"      
+        y = "250"/>
+    </statePointEntry>
+  </locations>
+</navigationModel>
